@@ -1,1 +1,2 @@
-apt-get install pulseaudio-module-bluetooth
+-install pulseaudio-module-bluetooth
+-add Disable=Headset /etc/bluetooth/main.conf
